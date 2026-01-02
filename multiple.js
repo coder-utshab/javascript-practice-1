@@ -8,3 +8,6 @@ if(salary > 20000 && height > 66){
 else{
     console.log('studey in parul university');
 }
+
+
+
